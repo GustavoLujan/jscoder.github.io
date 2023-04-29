@@ -1,0 +1,242 @@
+[
+    {
+        "id": "silla-01",
+        "titulo": "Silla Gamer Vertagear Racing Series PL-4500",
+        "imagen": "./img/sillas/01.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 329450
+    },
+    {
+        "id": "silla-02",
+        "titulo": "Silla Gamer Corsair T2 Road Warrior Black/Yellow",
+        "imagen": "./img/sillas/02.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 211300
+    },
+    {
+        "id": "sillas-03",
+        "titulo": "Silla Gamer Corsair T2 Road Warrior Black/Red",
+        "imagen": "./img/sillas/03.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 209750
+    },
+    {
+        "id": "sillas-04",
+        "titulo": "Silla Gamer AK-Racing Gaming Chair OCTANE Blue",
+        "imagen": "./img/sillas/04.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 182240
+    },
+    {
+        "id": "sillas-05",
+        "titulo": "Silla Gamer AK-Racing Gaming Chair OCTANE White",
+        "imagen": "./img/sillas/05.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 182240
+    },
+    {
+        "id": "silla-06",
+        "titulo": "Silla Gamer Checkpoint FIFA MT-2000 Argentina",
+        "imagen": "./img/sillas/06.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 126800
+    },
+    {
+        "id": "silla-07",
+        "titulo": "Silla Gamer Checkpoint FIFA MT-2000 Qatar",
+        "imagen": "./img/sillas/07.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 125600
+    },
+    {
+        "id": "silla-08",
+        "titulo": "Silla Gamer Shenlong SCH-RGB155 Black Blue",
+        "imagen": "./img/sillas/08.jpg",
+        "categoria": {
+            "nombre": "Sillas Gamer",
+            "id": "Sillas"
+        },
+        "precio": 125500
+    },
+    {
+        "id": "Notebooks-01",
+        "titulo": "Notebook Gamer MSI Pulse GL76 FHD 17.3 Core I7 12700H 16GB 1TB SSD NVMe RTX 3070Q W11 360Hz",
+        "imagen": "./img/Notebooks/01.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 929999
+    },
+    {
+        "id": "Notebooks-02",
+        "titulo": "Notebook Gamer Gigabyte Aero 16 XE5 UHD AMOLED HDR 16 Core I7 12700H 16GB 4800Mhz 1TB SSD NVMe RTX 3070TI W11 120Hz",
+        "imagen": "./img/Notebooks/02.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 909999
+    },
+    {
+        "id": "Notebooks-03",
+        "titulo": "Notebook Gamer Legion 5 PRO 16 Ryzen 7 5800H 16GB (2x8GB) 512GB SSD NVMe RTX 3070 W11H 165Hz",
+        "imagen": "./img/Notebooks/03.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 879990
+    },
+    {
+        "id": "Notebooks-04",
+        "titulo": "Notebook Gamer Aorus 17G FHD 17.3 Core I7 11800H 16GB (2x8GB) 512GB SSD NVMe RTX 3070 W10H 300Hz",
+        "imagen": "./img/Notebooks/04.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 849990
+    },
+    {
+        "id": "Notebooks-05",
+        "titulo": "Notebook Gamer Aorus 17G FHD 17.3 Core I7 11800H 16GB (2x8GB) 512GB SSD NVMe RTX 3070 W10H 300Hz",
+        "imagen": "./img/Notebooks/05.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 846.999
+    },
+    {
+        "id": "Notebooks-06",
+        "titulo": "Notebook Gamer Dell Alienware 15.6 Core i7 11800H 16GB 512GB SSD NVMe RTX 3070 W10 165Hz",
+        "imagen": "./img/Notebooks/06.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 799199
+    },
+    {
+        "id": "Notebooks-07",
+        "titulo": "Notebook Gamer MSI Stealth FHD 17.3 Core i7 12700H 16GB (2x8GB) 1TB SSD NVMe RTX 3060Q W11H 144Hz",
+        "imagen": "./img/Notebooks/07.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 785999
+    },
+    {
+        "id": "Notebooks-08",
+        "titulo": "Notebook Gamer ASUS ROG STRIX G513RM 15.6 IPS Ryzen 7 6800H 16GB DDR5 512GB SSD NVMe RTX 3060 W11 Home 165Hz WQHD",
+        "imagen": "./img/Notebooks/08.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "Notebooks"
+        },
+        "precio": 781990
+    },
+    {
+        "id": "Monitores-01",
+        "titulo": "Monitor LG LCD 49 49WL95C Curvo Ultra Wide DUAL QHD",
+        "imagen": "./img/Monitores/01.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 651250
+    },
+    {
+        "id": "Monitores-02",
+        "titulo": "Monitor LG 34 Curvo UltraWide 34WL85C-B IPS QHD 2K 21:9",
+        "imagen": "./img/Monitores/02.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 340650
+    },
+    {
+        "id": "Monitores-03",
+        "titulo": "Monitor Gamer LG 32 IPS QHD 32GP850-B 165Hz",
+        "imagen": "./img/Monitores/03.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 339450
+    },
+    {
+        "id": "Monitores-04",
+        "titulo": "Monitor LG 28 Dual Ergo 28MQ780-B SDQHD Nano IPS",
+        "imagen": "./img/Monitores/04.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 338250
+    },
+    {
+        "id": "Monitores-05",
+        "titulo": "Monitor ViewSonic 24.5 XG251G 360Hz IPS",
+        "imagen": "./img/Monitores/05.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 299700
+    },
+    {
+        "id": "Monitores-06",
+        "titulo": "Monitor Gamer AOC 2 AGON League Of Legends",
+        "imagen": "./img/Monitores/06.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 299600
+    },
+    {
+        "id": "Monitores-07",
+        "titulo": "Monitor Gamer BENQ Zowie 27",
+        "imagen": "./img/Monitores/07.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 276200
+    },
+    {
+        "id": "Monitores-08",
+        "titulo": "Monitor LG 32 UltraGear 32UN550 4K 60Hz",
+        "imagen": "./img/Monitores/08.jpg",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "Monitores"
+        },
+        "precio": 209999
+    }
+]
