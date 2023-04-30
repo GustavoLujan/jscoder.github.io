@@ -2,7 +2,7 @@
     {
         "id": "silla-01",
         "titulo": "Silla Gamer Vertagear Racing Series PL-4500",
-        "imagen": "./img/sillas/01.jpg",
+        "imagen": "./img/Sillas/01.jpg",
         "categoria": {
             "nombre": "Sillas Gamer",
             "id": "Sillas"
@@ -12,7 +12,7 @@
     {
         "id": "silla-02",
         "titulo": "Silla Gamer Corsair T2 Road Warrior Black/Yellow",
-        "imagen": "./img/sillas/02.jpg",
+        "imagen": "./img/Sillas/02.jpg",
         "categoria": {
             "nombre": "Sillas Gamer",
             "id": "Sillas"
@@ -22,7 +22,7 @@
     {
         "id": "sillas-03",
         "titulo": "Silla Gamer Corsair T2 Road Warrior Black/Red",
-        "imagen": "./img/sillas/03.jpg",
+        "imagen": "./img/Sillas/03.jpg",
         "categoria": {
             "nombre": "Sillas Gamer",
             "id": "Sillas"
@@ -32,7 +32,7 @@
     {
         "id": "sillas-04",
         "titulo": "Silla Gamer AK-Racing Gaming Chair OCTANE Blue",
-        "imagen": "./img/sillas/04.jpg",
+        "imagen": "./img/Sillas/04.jpg",
         "categoria": {
             "nombre": "Sillas Gamer",
             "id": "Sillas"
@@ -42,7 +42,7 @@
     {
         "id": "sillas-05",
         "titulo": "Silla Gamer AK-Racing Gaming Chair OCTANE White",
-        "imagen": "./img/sillas/05.jpg",
+        "imagen": "./img/Sillas/05.jpg",
         "categoria": {
             "nombre": "Sillas Gamer",
             "id": "Sillas"
@@ -52,7 +52,7 @@
     {
         "id": "silla-06",
         "titulo": "Silla Gamer Checkpoint FIFA MT-2000 Argentina",
-        "imagen": "./img/sillas/06.jpg",
+        "imagen": "./img/Sillas/06.jpg",
         "categoria": {
             "nombre": "Sillas Gamer",
             "id": "Sillas"
