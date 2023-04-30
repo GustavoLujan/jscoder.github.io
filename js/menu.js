@@ -9,3 +9,4 @@ openMenu.addEventListener("click", () => {
 closeMenu.addEventListener("click", () => {
     aside.classList.remove("aside-visible");
 })
+
