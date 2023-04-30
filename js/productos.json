@@ -61,7 +61,7 @@
     },
     {
         "id": "Notebooks-01",
-        "titulo": "Notebook Gamer MSI Pulse GL76 FHD 17.3 Core I7 12700H 16GB 1TB SSD NVMe RTX 3070Q W11 360Hz",
+        "titulo": "Notebook Gamer MSI Pulse GL76 FHD 17.3 Core I7",
         "imagen": "./img/Notebooks/01.jpg",
         "categoria": {
             "nombre": "Notebooks",
@@ -71,7 +71,7 @@
     },
     {
         "id": "Notebooks-02",
-        "titulo": "Notebook Gamer Gigabyte Aero 16 XE5 UHD AMOLED HDR 16 Core I7 12700H 16GB 4800Mhz 1TB SSD NVMe RTX 3070TI W11 120Hz",
+        "titulo": "Notebook Gamer Gigabyte Aero 16 XE5 UHD AMOLED HDR 16 Core I7",
         "imagen": "./img/Notebooks/02.jpg",
         "categoria": {
             "nombre": "Notebooks",
@@ -81,7 +81,7 @@
     },
     {
         "id": "Notebooks-03",
-        "titulo": "Notebook Gamer Legion 5 PRO 16 Ryzen 7 5800H 16GB (2x8GB) 512GB SSD NVMe RTX 3070 W11H 165Hz",
+        "titulo": "Notebook Gamer Legion 5 PRO 16 Ryzen 7 5800H 16GB",
         "imagen": "./img/Notebooks/03.jpg",
         "categoria": {
             "nombre": "Notebooks",
@@ -91,7 +91,7 @@
     },
     {
         "id": "Notebooks-04",
-        "titulo": "Notebook Gamer Aorus 17G FHD 17.3 Core I7 11800H 16GB (2x8GB) 512GB SSD NVMe RTX 3070 W10H 300Hz",
+        "titulo": "Notebook Gamer Aorus 17G FHD 17.3 Core I7 11800H 16GB",
         "imagen": "./img/Notebooks/04.jpg",
         "categoria": {
             "nombre": "Notebooks",
@@ -101,7 +101,7 @@
     },
     {
         "id": "Notebooks-05",
-        "titulo": "Notebook Gamer Aorus 17G FHD 17.3 Core I7 11800H 16GB (2x8GB) 512GB SSD NVMe RTX 3070 W10H 300Hz",
+        "titulo": "Notebook Gamer Aorus 17G FHD 17.3 Core I7 11800H 16GB",
         "imagen": "./img/Notebooks/05.jpg",
         "categoria": {
             "nombre": "Notebooks",
@@ -111,7 +111,7 @@
     },
     {
         "id": "Notebooks-06",
-        "titulo": "Notebook Gamer Dell Alienware 15.6 Core i7 11800H 16GB 512GB SSD NVMe RTX 3070 W10 165Hz",
+        "titulo": "Notebook Gamer Dell Alienware 15.6 Core i7 11800H 16GB",
         "imagen": "./img/Notebooks/06.jpg",
         "categoria": {
             "nombre": "Notebooks",
